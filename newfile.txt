@@ -1,1 +1,2 @@
 Made changes to my file.
+Made changes in a new branch.
